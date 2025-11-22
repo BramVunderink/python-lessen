@@ -5,6 +5,7 @@ print(time)
 
 now = time.strftime("%b %d, %Y %H:%M:%S")
 print("It is", now)
+print("Its the second time now")
 
 while True:
     # get user input and strip space caracters from it.
