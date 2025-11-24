@@ -5,7 +5,6 @@ print(time)
 
 now = time.strftime("%b %d, %Y %H:%M:%S")
 print("It is", now)
-print("Its the second time now")
 
 while True:
     # get user input and strip space caracters from it.
@@ -71,5 +70,3 @@ while True:
         print("Command is not valid")
 
 print("Bye!")
-
-print("aa test!!")
