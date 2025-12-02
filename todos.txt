@@ -1,10 +1,7 @@
-add a new player
-add a new member
-clean the programmake soup.
-Buy plantsclean the code
-Good orderWe just made a default arg
-Master Python!
-Koekjes bakken
-My newest to do is added
+Make soup
+Good ORderWe just made a default arg
+Buy platsn. Master Python!
+Anything
+My newest todo is added
 Last todo
 And lastly
