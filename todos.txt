@@ -2,7 +2,3 @@ Make soup
 Good ORderWe just made a default arg
 Buy platsn. Master Python!
 Anything
-My newest todo is added
-Last todo
-And lastly
-
