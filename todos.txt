@@ -1,8 +1,0 @@
-add a new player
-add a new member
-but a camera
-make soup.
-make pizza
-clean the code
-new order
-We just made a default arg
